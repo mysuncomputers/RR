@@ -1,4 +1,6 @@
 public 
 {
-    
+    public vodi{
+        sun 
+    }
 }
